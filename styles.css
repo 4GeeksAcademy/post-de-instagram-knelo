@@ -6,33 +6,37 @@ background-color: purple;
     font-size: 100px;
     background: blue;
     color: red;
+    text-align: center;
 
 }
 
 #caja2 {
 
-    width: 100%;
+    
     flex-grow: 1;
 
 
 }
 
 #div1 {
-    width: 60%;
+    width: 50%;
     margin-bottom: 100px;
     background-color: blueviolet;
+    margin-left: 25%;
 }
 
 #div2 {
-    width: 60%;
+    width: 50%;
     margin-bottom: 100px;
     background-color: blueviolet;
+    margin-left: 25%;
 }
 
 #div3 {
-    width: 60%;
+    width: 50%;
     margin-bottom: 100px;
     background-color: blueviolet;
+    margin-left: 25%;
 }
 
 
@@ -47,7 +51,7 @@ background-color: purple;
 
     width: 100%;
     height: 70%;
-    align-content: center;
+
 
 }
 
