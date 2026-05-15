@@ -1,0 +1,59 @@
+#body {
+background-color: purple;
+}
+
+#caja1 {
+    font-size: 100px;
+    background: blue;
+    color: red;
+
+}
+
+#caja2 {
+
+    width: 100%;
+    flex-grow: 1;
+
+
+}
+
+#div1 {
+    width: 60%;
+    margin-bottom: 100px;
+    background-color: blueviolet;
+}
+
+#div2 {
+    width: 60%;
+    margin-bottom: 100px;
+    background-color: blueviolet;
+}
+
+#div3 {
+    width: 60%;
+    margin-bottom: 100px;
+    background-color: blueviolet;
+}
+
+
+.mini1 {
+
+    width: 100%;
+    height: 20%;
+
+}
+
+.mini2{
+
+    width: 100%;
+    height: 70%;
+    align-content: center;
+
+}
+
+.mini3 {
+    width: 100%;
+    height: 10%;
+    font-size: 25px;
+    
+}
