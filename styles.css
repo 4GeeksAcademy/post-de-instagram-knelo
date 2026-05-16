@@ -1,8 +1,12 @@
 #body {
+
 background-color: purple;
 }
 
+
+
 #caja1 {
+
     font-size: 100px;
     background: blue;
     color: red;
@@ -11,32 +15,38 @@ background-color: purple;
 }
 
 #caja2 {
-
-    
+    width: 59%;
     flex-grow: 1;
+    display: flex;
+    flex-flow: column;
 
 
 }
 
 #div1 {
+
     width: 50%;
     margin-bottom: 100px;
+    margin-left: 60%;
     background-color: blueviolet;
-    margin-left: 25%;
+    justify-content: center;
+
 }
 
 #div2 {
+
     width: 50%;
     margin-bottom: 100px;
     background-color: blueviolet;
-    margin-left: 25%;
+    margin-left: 60%;
 }
 
 #div3 {
+
     width: 50%;
     margin-bottom: 100px;
     background-color: blueviolet;
-    margin-left: 25%;
+    margin-left: 60%;
 }
 
 
@@ -44,6 +54,9 @@ background-color: purple;
 
     width: 100%;
     height: 20%;
+    justify-content: left;
+    display: flex;
+    background-color: aqua;
 
 }
 
@@ -51,13 +64,20 @@ background-color: purple;
 
     width: 100%;
     height: 70%;
+    display: flex;
+    justify-content: center;
+    background-color: green;
 
 
 }
 
+
 .mini3 {
+
     width: 100%;
     height: 10%;
     font-size: 25px;
+    background-color: white;
+    display: flex;
     
 }
